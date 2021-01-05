@@ -6,3 +6,4 @@
 ### 2020-07-20 : DFS/BFS, WordChange(Programmers)
 ### 2020-11-20 : SegmentTree, Backjoon1753
 ### 2020-11-20 : 섬의 개수 세기 (연결된 부분집합의 개수 세기 dfs, 종만북 p828)
+- [2021-01-05 - palindrome](https://github.com/pwr4779/Algorithm/blob/master/LeetCode/valid_palindrome.py)
