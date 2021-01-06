@@ -21,3 +21,6 @@
 - [group-anagrams](https://github.com/pwr4779/Algorithm/blob/master/LeetCode/group-anagrams.py)
 애너그램을 판단하는 가장 간단한 방법 - 정렬하여 비교
 defaultdict로 dict를 선언하고 정렬하여 같은 키 값을 같은 버킷에 넣어 해결.
+### 가장 긴 팰린드롬 판별 투 포인터 확장
+- [logestPalindromel](https://github.com/pwr4779/Algorithm/blob/master/LeetCode/longestPal.py)
+가장 긴 팰린드롬 판별하기
